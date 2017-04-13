@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Renewable Energy Projects</name>
+    <description/>
+    <Style id="icon-503-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F4EB37-normal">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-F4EB37-highlight">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-F4EB37">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F4EB37-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F4EB37-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Map Key</name>
+      <Placemark>
+        <name>Spring Grove Solar, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Surry<br>Location: Northeast of the intersection of Colonial Trail (Route 10) and Swanns Point Road (Route 610)<br>Latitude: 37.166307<br>Longitude: -76.968440<br>Megawatts: 100 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Surry</value>
+          </Data>
+          <Data name="Location">
+            <value>Northeast of the intersection of Colonial Trail (Route 10) and Swanns Point Road (Route 610)</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.166307</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.968440</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>100 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.96844,37.166307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First Solar Development, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Montgomery<br>Location: Between I-81 and Mud Pike Road approximately four miles southeast of Christiansburg<br>Latitude: 37.112246<br>Longitude: -80.444751<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Montgomery</value>
+          </Data>
+          <Data name="Location">
+            <value>Between I-81 and Mud Pike Road approximately four miles southeast of Christiansburg</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.112246</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.444751</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.444751,37.112246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hollyfield II Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: King William<br>Location: South of Old Newcastle Road, north of the Pamunkey River, and on either side of Bassettaire Lane<br>Latitude: 37.679843<br>Longitude: -77.159681<br>Megawatts: 13 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>King William</value>
+          </Data>
+          <Data name="Location">
+            <value>South of Old Newcastle Road, north of the Pamunkey River, and on either side of Bassettaire Lane</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.679843</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.159681</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>13 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.159681,37.679843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Briel Farm Solar, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Henrico<br>Location: Eastern Henrico County, immediately northeast of the I-295 and I-64 interchange<br>Latitude: 37.526583<br>Longitude: -77.266937<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Henrico</value>
+          </Data>
+          <Data name="Location">
+            <value>Eastern Henrico County, immediately northeast of the I-295 and I-64 interchange</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.526583</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.266937</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.266937,37.526583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pamplin Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Appomattox<br>Location: Highway 460 between Morning Star Road and Cavalier Lane approximately four miles southwest of Appomattox<br>Latitude: 37.328531<br>Longitude: -78.768225<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Appomattox</value>
+          </Data>
+          <Data name="Location">
+            <value>Highway 460 between Morning Star Road and Cavalier Lane approximately four miles southwest of Appomattox</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.328531</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.768225</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.768225,37.328531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halifax Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Halifax<br>Location: Dryburg Road (Route 716) at the intersection of Route 360 in Clover<br>Latitude: 36.817383<br>Longitude: -78.718919<br>Megawatts: 15 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Halifax</value>
+          </Data>
+          <Data name="Location">
+            <value>Dryburg Road (Route 716) at the intersection of Route 360 in Clover</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.817383</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.718919</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>15 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.718919,36.817383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hickory Solar 2 LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Chesapeake<br>Location: Ballentine Road near Battlefield Boulevard in Hickory<br>Latitude: 36.626042<br>Longitude: -76.192256<br>Megawatts: 15 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Chesapeake</value>
+          </Data>
+          <Data name="Location">
+            <value>Ballentine Road near Battlefield Boulevard in Hickory</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.626042</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.192256</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>15 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.192256,36.626042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hickory Solar 1 LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Chesapeake<br>Location: Ballentine Road near Battlefield Boulevard in Hickory<br>Latitude: 36.626042<br>Longitude: -76.192256<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Chesapeake</value>
+          </Data>
+          <Data name="Location">
+            <value>Ballentine Road near Battlefield Boulevard in Hickory</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.626042</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.192256</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.192256,36.626042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rives Road Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Prince George<br>Location: Rives Road at I-295 in southern Prince George<br>Latitude: 37.174764<br>Longitude: -77.336611<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Prince George</value>
+          </Data>
+          <Data name="Location">
+            <value>Rives Road at I-295 in southern Prince George</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.174764</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.336611</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.336611,37.174764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spout Springs Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Appomattox<br>Location: Richmond Highway/Route 460 approximately 3.5 miles west of the town of Appomattox<br>Latitude: 37.357253<br>Longitude: -78.890706<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Appomattox</value>
+          </Data>
+          <Data name="Location">
+            <value>Richmond Highway/Route 460 approximately 3.5 miles west of the town of Appomattox</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.357253</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.890706</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.890706,37.357253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Virginia Solar LLC - Brandy Station</name>
+        <description><![CDATA[Type: Solar<br>County/City: Culpeper<br>Location: North of Greens Corner Road, west of Stevensburg Road, and east of Glen Ella Road<br>Latitude: 38.466130<br>Longitude: -77.904907<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Culpeper</value>
+          </Data>
+          <Data name="Location">
+            <value>North of Greens Corner Road, west of Stevensburg Road, and east of Glen Ella Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.466130</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.904907</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.904907,38.46613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sydnor Solar Farm LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Mecklenburg <br>Location: 80 Carters Point Road in the soutwest corner of Mecklenburg County off of Highway 58 in unincorporated Buffalo Junction <br>Latitude: 36.655103<br>Longitude: -78.693730<br>Megawatts: 8.8 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Mecklenburg </value>
+          </Data>
+          <Data name="Location">
+            <value>80 Carters Point Road in the soutwest corner of Mecklenburg County off of Highway 58 in unincorporated Buffalo Junction </value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.655103</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.693730</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>8.8 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.69373,36.655103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colonial Trail W Solar, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Surry<br>Location: Northwest of the intersection of Colonial Trail (Route 10) and Hollybush Road (Route 618)<br>Latitude: 37.135610<br>Longitude: -76.885996<br>Megawatts: 100 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Surry</value>
+          </Data>
+          <Data name="Location">
+            <value>Northwest of the intersection of Colonial Trail (Route 10) and Hollybush Road (Route 618)</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.135610</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.885996</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>100 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.885996,37.13561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[BM&D Ltd.]]></name>
+        <description><![CDATA[Type: Solar<br>County/City: Pulaski<br>Location: Along Cougar Trail Road and in the New River Valley Commerce Park<br>Latitude: 37.085608<br>Longitude: -80.712514<br>Megawatts: 48 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Pulaski</value>
+          </Data>
+          <Data name="Location">
+            <value>Along Cougar Trail Road and in the New River Valley Commerce Park</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.085608</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.712514</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>48 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.712514,37.085608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunnybrook Farm Solar, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Halifax<br>Location: Off Long Branch Lane outside of Scottsburg<br>Latitude: 36.797419<br>Longitude: -78.819562<br>Megawatts: 51 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Halifax</value>
+          </Data>
+          <Data name="Location">
+            <value>Off Long Branch Lane outside of Scottsburg</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.797419</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.819562</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>51 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.819562,36.797419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grasshopper Solar, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Mecklenburg <br>Location: Between Highway 47 and Highway 49 just north of Chase City<br>Latitude: 36.829905<br>Longitude: -78.471656<br>Megawatts: 80 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Mecklenburg </value>
+          </Data>
+          <Data name="Location">
+            <value>Between Highway 47 and Highway 49 just north of Chase City</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.829905</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.471656</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>80 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.471656,36.829905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belcher Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Louisa<br>Location: Mulitple parcels west of Waldrop Church Road, north of Bickley Road, south of Desper Road, and west of both Harris Creek and Courthouse Roads<br>Latitude: 38.014693<br>Longitude: -78.043546<br>Megawatts: 88.2 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Louisa</value>
+          </Data>
+          <Data name="Location">
+            <value>Mulitple parcels west of Waldrop Church Road, north of Bickley Road, south of Desper Road, and west of both Harris Creek and Courthouse Roads</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.014693</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.043546</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>88.2 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.043546,38.014693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SunPower Corporation</name>
+        <description><![CDATA[Type: Solar<br>County/City: James City County<br>Location: North and south of Norge Farm Lane, two miles northwest of Lightfoot <br>Latitude: 37.362281<br>Longitude: -76.779628<br>Megawatts: 35 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>James City County</value>
+          </Data>
+          <Data name="Location">
+            <value>North and south of Norge Farm Lane, two miles northwest of Lightfoot </value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.362281</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.779628</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>35 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.779628,37.362281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SolUnesco LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Caroline<br>Location: 6337 Quarters Road, Woodford<br>Latitude: 38.079454<br>Longitude: -77.534945<br>Megawatts: 20 Megawatts DC, 15 Megawatts AC<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Caroline</value>
+          </Data>
+          <Data name="Location">
+            <value>6337 Quarters Road, Woodford</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.079454</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.534945</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts DC, 15 Megawatts AC</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.534945,38.079454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SolUnesco LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Orange<br>Location: 30431 Constitution Highway, Locust Grove<br>Latitude: 38.298241<br>Longitude: -77.839379<br>Megawatts: 80 Megawatts DC, 61.5 Megawatts AC<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Orange</value>
+          </Data>
+          <Data name="Location">
+            <value>30431 Constitution Highway, Locust Grove</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.298241</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.839379</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>80 Megawatts DC, 61.5 Megawatts AC</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.839379,38.298241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SolUnesco LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Albemarle<br>Location: Charlottesville<br>Latitude: 38.015799<br>Longitude: -78.490176<br>Megawatts: 14 Megawatts DC, 11 Megawatts AC<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Albemarle</value>
+          </Data>
+          <Data name="Location">
+            <value>Charlottesville</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.015799</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.490176</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>14 Megawatts DC, 11 Megawatts AC</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.490176,38.015799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SolUnesco LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Henry<br>Location: East of Mountain Valley Road and North of Jones Ridge Road in Axton<br>Latitude: 36.684725<br>Longitude: -79.708931<br>Megawatts: 23 Megawatts DC, 20 Megawatts AC<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Henry</value>
+          </Data>
+          <Data name="Location">
+            <value>East of Mountain Valley Road and North of Jones Ridge Road in Axton</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.684725</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-79.708931</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>23 Megawatts DC, 20 Megawatts AC</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.708931,36.684725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SunPower Corporation</name>
+        <description><![CDATA[Type: Solar<br>County/City: Southampton <br>Location: South and west of Southampton Parkway, east of Smiths Ferry Road, and north of farms that border Brooks Road, approximately 1.5 miles south of Franklin<br>Latitude: 36.648870<br>Longitude: -76.917123<br>Megawatts: Maximum 91 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Southampton </value>
+          </Data>
+          <Data name="Location">
+            <value>South and west of Southampton Parkway, east of Smiths Ferry Road, and north of farms that border Brooks Road, approximately 1.5 miles south of Franklin</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.648870</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.917123</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 91 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.917123,36.64887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SunEnergy 1</name>
+        <description><![CDATA[Type: Solar<br>County/City: Hanover<br>Location: 3028 Mechanicsville Turnpike, Mechanicsville<br>Latitude: 37.667591<br>Longitude: -77.197951<br>Megawatts: Maximum 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Hanover</value>
+          </Data>
+          <Data name="Location">
+            <value>3028 Mechanicsville Turnpike, Mechanicsville</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.667591</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.197951</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.197951,37.667591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scott-II Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Powhatan<br>Location: Old Buckingham Road to north and west, Pierce Road to south, Mill Quarter Road to east<br>Latitude: 37.517181<br>Longitude: -77.941819<br>Megawatts: Maximum 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Powhatan</value>
+          </Data>
+          <Data name="Location">
+            <value>Old Buckingham Road to north and west, Pierce Road to south, Mill Quarter Road to east</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.517181</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.941819</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.941819,37.517181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Twitty's Creek Solar, LLC]]></name>
+        <description><![CDATA[Type: Solar<br>County/City: Charlotte <br>Location: West of the intersection of Highway 59 and Ingleside Lane<br>Latitude: 37.019863<br>Longitude: -78.581433<br>Megawatts: Maximum 15 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Charlotte </value>
+          </Data>
+          <Data name="Location">
+            <value>West of the intersection of Highway 59 and Ingleside Lane</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.019863</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.581433</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 15 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.581433,37.019863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sappony Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Sussex <br>Location: South of Highway 40, between the two intersections of Booth Road, continues south across Booth Road to Palestine Road<br>Latitude: 36.944132<br>Longitude: -77.415870<br>Megawatts: Maximum 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Sussex </value>
+          </Data>
+          <Data name="Location">
+            <value>South of Highway 40, between the two intersections of Booth Road, continues south across Booth Road to Palestine Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.944132</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.415870</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.41587,36.944132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Correctional Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: New Kent <br>Location: Southeast of the intersection of New Kent Highway and Mt. Nebo Road as well as west side of Barham Road just south of the intersection of New Kent Highway  and Mt. Nebo Road<br>Latitude: 37.474915<br>Longitude: -76.845569<br>Megawatts: Maximum 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>New Kent </value>
+          </Data>
+          <Data name="Location">
+            <value>Southeast of the intersection of New Kent Highway and Mt. Nebo Road as well as west side of Barham Road just south of the intersection of New Kent Highway  and Mt. Nebo Road</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.474915</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.845569</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.845569,37.474915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southampton Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Southampton <br>Location: Southern Southampton County, general vicinity of Boykins and Newsoms, near Boykins substation<br>Latitude: 36.597870<br>Longitude: -77.152521<br>Megawatts: Maximum 100 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Southampton </value>
+          </Data>
+          <Data name="Location">
+            <value>Southern Southampton County, general vicinity of Boykins and Newsoms, near Boykins substation</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.597870</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.152521</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 100 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.152521,36.59787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bluestorm Farm Solar, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Mecklenburg <br>Location: South of Spanish Grove Road, outside of Chase City<br>Latitude: 36.805941<br>Longitude: -78.493551<br>Megawatts: 49.9 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Mecklenburg </value>
+          </Data>
+          <Data name="Location">
+            <value>South of Spanish Grove Road, outside of Chase City</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.805941</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.493551</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>49.9 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.493551,36.805941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SolUnesco LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Mecklenburg <br>Location: West of Chase City<br>Latitude: 36.815582<br>Longitude: -78.493735<br>Megawatts: 76.8 Megawatts DC, 60 Megawatts AC<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Mecklenburg </value>
+          </Data>
+          <Data name="Location">
+            <value>West of Chase City</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.815582</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.493735</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>76.8 Megawatts DC, 60 Megawatts AC</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.493735,36.815582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terracon Consultants Inc. on behalf of Turning Point Energy</name>
+        <description><![CDATA[Type: Solar<br>County/City: Pittsylvania<br>Location: 2048 Kentuck Church Road in Danville (Pittsylvania County PIN #2440-70-0130) **Address is in Ringgold, VA**<br>Latitude: 36.660283<br>Longitude: -79.298807<br>Megawatts: No Less Than 6 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Pittsylvania</value>
+          </Data>
+          <Data name="Location">
+            <value>2048 Kentuck Church Road in Danville (Pittsylvania County PIN #2440-70-0130) **Address is in Ringgold, VA**</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.660283</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-79.298807</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>No Less Than 6 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.298807,36.660283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tradewind Energy, Inc. & TWE Chesapeake Solar Project, LLC]]></name>
+        <description><![CDATA[Type: Solar<br>County/City: Chesapeake<br>Location: In City of Chesapeake between Centreville Turnpike South and Longridge Road to the west and east, and bounded by Beaver Dam Road to the north<br>Latitude: 36.638737<br>Longitude: -76.175108<br>Megawatts: 20 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Chesapeake</value>
+          </Data>
+          <Data name="Location">
+            <value>In City of Chesapeake between Centreville Turnpike South and Longridge Road to the west and east, and bounded by Beaver Dam Road to the north</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.638737</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.175108</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.175108,36.638737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tradewind Energy, Inc. & TWE Myrtle Solar Project, LLC]]></name>
+        <description><![CDATA[Type: Solar<br>County/City: Suffolk<br>Location: In City of Suffolk along Pruden Boulevard (Highway 460) <br>Latitude: 36.783708<br>Longitude: -76.638687<br>Megawatts: 15 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Suffolk</value>
+          </Data>
+          <Data name="Location">
+            <value>In City of Suffolk along Pruden Boulevard (Highway 460) </value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.783708</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.638687</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>15 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.638687,36.783708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tradewind Energy, Inc. & Centerville Pike Solar Project, LLC]]></name>
+        <description><![CDATA[Type: Solar<br>County/City: Chesapeake<br>Location: In City of Chesapeake along Centerville Turnpike Road <br>Latitude: 36.748776<br>Longitude: -76.183252<br>Megawatts: 15 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Chesapeake</value>
+          </Data>
+          <Data name="Location">
+            <value>In City of Chesapeake along Centerville Turnpike Road </value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.748776</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.183252</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>15 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.183252,36.748776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ecoplexus, Inc. </name>
+        <description><![CDATA[Type: Solar<br>County/City: Isle of Wight<br>Location: 15562 Scotts Factory Road, Smithfield, bounded by Scotts Factory Road (State Route 620) to the east, .4 miles south of the intersection of Scotts Factory Road and US 58<br>Latitude: 36.951666<br>Longitude: -76.662198<br>Megawatts: Maximum 14 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Isle of Wight</value>
+          </Data>
+          <Data name="Location">
+            <value>15562 Scotts Factory Road, Smithfield, bounded by Scotts Factory Road (State Route 620) to the east, .4 miles south of the intersection of Scotts Factory Road and US 58</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.951666</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.662198</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 14 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.662198,36.951666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SunTec Solar Solutions LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Accomack<br>Location: Between towns of Onancock and Tasley, in vicinity of Tasley electrical substation<br>Latitude: 37.709679<br>Longitude: -75.711574<br>Megawatts: Maximum 80 Megawatts<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Accomack</value>
+          </Data>
+          <Data name="Location">
+            <value>Between towns of Onancock and Tasley, in vicinity of Tasley electrical substation</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.709679</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-75.711574</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 80 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.711574,37.709679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coronal Development Services on behalf of Essex Solar Center, LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Essex<br>Location: In Dunnsville off Highway 17 near the Dominion Power Dunnsville electrical substation<br>Latitude: 37.857847<br>Longitude: -76.818175<br>Megawatts: Maximum 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Essex</value>
+          </Data>
+          <Data name="Location">
+            <value>In Dunnsville off Highway 17 near the Dominion Power Dunnsville electrical substation</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.857847</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-76.818175</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.818175,37.857847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buckingham Solar I LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Buckingham<br>Location: Northeast of intersection of Route 628 (High Rock Road) and Highway 60<br>Latitude: 37.500980<br>Longitude: -78.379214<br>Megawatts: Maximum 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Buckingham</value>
+          </Data>
+          <Data name="Location">
+            <value>Northeast of intersection of Route 628 (High Rock Road) and Highway 60</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.500980</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-78.379214</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.379214,37.50098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hecate Energy Cherrydale LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Northampton<br>Location: In Eastville, southeast corner of Seaside Road and Cherrydale Drive<br>Latitude: 37.370883<br>Longitude: -75.908048<br>Megawatts: No Less Than 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Northampton</value>
+          </Data>
+          <Data name="Location">
+            <value>In Eastville, southeast corner of Seaside Road and Cherrydale Drive</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.370883</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-75.908048</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>No Less Than 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.908048,37.370883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hecate Energy Clarke County LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Clarke <br>Location: Near Berryville, northeast corner of Double Tollgate Road and Highway 552<br>Latitude: 38.9958709<br>Longitude: -77.9340229<br>Megawatts: No Less Than 20 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Clarke </value>
+          </Data>
+          <Data name="Location">
+            <value>Near Berryville, northeast corner of Double Tollgate Road and Highway 552</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.9958709</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.9340229</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>No Less Than 20 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.9340229,38.9958709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SolUnesco LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Greensville<br>Location: In Brink<br>Latitude: 36.617647<br>Longitude: -77.633182<br>Megawatts: 76.8 Megawatts DC, 60 Megawatts AC<br>Proposed/Permitted: Proposed Solar]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Greensville</value>
+          </Data>
+          <Data name="Location">
+            <value>In Brink</value>
+          </Data>
+          <Data name="Latitude">
+            <value>36.617647</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-77.633182</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>76.8 Megawatts DC, 60 Megawatts AC</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Proposed Solar</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.633182,36.617647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rocky Forge Wind LLC, an affiliate of Apex Clean Energy Holdings, LLC</name>
+        <description><![CDATA[Type: Wind<br>County/City: Botetourt<br>Location: Northern Botetourt County<br>Latitude: 37.745091<br>Longitude: -79.774315<br>Megawatts: Maximum 80 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Wind</value>
+          </Data>
+          <Data name="County/City">
+            <value>Botetourt</value>
+          </Data>
+          <Data name="Location">
+            <value>Northern Botetourt County</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.745091</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-79.774315</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 80 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.774315,37.745091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eastern Shore Solar LLC</name>
+        <description><![CDATA[Type: Solar<br>County/City: Accomack<br>Location: Northern Accomack County, south of the Virginia/Maryland border and west of Lankford Highway (Highway 13)<br>Latitude: 37.999208<br>Longitude: -75.543342<br>Megawatts: Maximum 80 Megawatts<br>Proposed/Permitted: Permitted]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Solar</value>
+          </Data>
+          <Data name="County/City">
+            <value>Accomack</value>
+          </Data>
+          <Data name="Location">
+            <value>Northern Accomack County, south of the Virginia/Maryland border and west of Lankford Highway (Highway 13)</value>
+          </Data>
+          <Data name="Latitude">
+            <value>37.999208</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-75.543342</value>
+          </Data>
+          <Data name="Megawatts">
+            <value>Maximum 80 Megawatts</value>
+          </Data>
+          <Data name="Proposed/Permitted">
+            <value>Permitted</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.543342,37.999208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
